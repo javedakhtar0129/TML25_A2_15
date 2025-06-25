@@ -1,6 +1,6 @@
 # TML25_A2_15
 # TML ASSIGNMENT 2  
-## Model Stealing in Self-Supervised Learning
+## Model Stealing in Supervised Learning
 
 **Team:** 15  
 **Members:** Hina Lilaram, Javed Akhtar
