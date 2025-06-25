@@ -29,6 +29,9 @@ This repository contains our solution for Assignment 2 of the Trustworthy Machin
   - Improved model architecture and loss functions  
   Unfortunately, this notebook could **not be fully executed due to server issues** encountered during the assignment period. However, the included code documents additional ideas for improving model stealing performance.
 
+- **TML25_A2_15_report.pdf**
+  This is the report file.
+
 ---
 
 *For any questions or clarifications, please contact either team member.*
